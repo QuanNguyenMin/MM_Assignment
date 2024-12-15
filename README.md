@@ -14,7 +14,7 @@ Yêu cầu:
   Mở terminal và chạy lệnh cài đặt thư viện: pip install numpy matplotlib
 
  Cách sử dụng
-   Tải 2 file main.py và policy.py, lưu chung 1 folder
+   Tải 2 file main.py và policy_2213070_2212397_2312859_2312837_2311120.py, lưu chung 1 folder
    Cài đặt các thư viện cần thiết
    Chạy chương trình bằng cách gõ lệnh trên terminal: python main.py
 
