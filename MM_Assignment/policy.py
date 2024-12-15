@@ -390,8 +390,6 @@ class InputForm(Tk):
         result_window.title("Results")
         result_window.geometry("300x150")
 
-        Label(result_window, text=f"Best Fit Chromosome: {best_individual}", 
-          font=("Arial", 12)).pack(pady=10)
         Label(result_window, text=f"Remaining Area Percentage: {remaining_percentage:.2f}%", 
           font=("Arial", 12)).pack(pady=10)
 
