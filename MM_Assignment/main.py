@@ -22,7 +22,7 @@
 #   Sau khi nhập các giá trị cần thiết, ấn Start Program để bắt đầu chương trình
 
 
-from policy import Rectangle, InputForm
+from policy_2213070_2212397_2312859_2312837_2311120.py import Rectangle, InputForm
 
 if __name__ == "__main__":
     app = InputForm()
