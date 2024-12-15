@@ -20,7 +20,8 @@
 #   Chiều dài, chiều rộng miếng vật liệu vật ban đầu (Rectangle Width, Rectangle Height)
 #   Kích thước các mảnh cần cắt và số lượng (Slice Width, Slice Height, Demand)
 #   Sau khi nhập các giá trị cần thiết, ấn Start Program để bắt đầu chương trình
-
+#
+#Nếu không thể chạy được, hãy đổi tên file policy_2213070_2212397_2312859_2312837_2311120.py thành policy.py và chỉnh sửa cho dòng from policy_2213070_2212397_2312859_2312837_2311120 import Rectangle, InputForm thành policy_2213070_2212397_2312859_2312837_2311120 import Rectangle, InputForm
 
 from policy_2213070_2212397_2312859_2312837_2311120 import Rectangle, InputForm
 
